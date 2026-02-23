@@ -1,5 +1,12 @@
 # cognitive-mesh-service-75
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/cognitive-mesh-service-75/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/cognitive-mesh-service-75/actions)
+![License](https://img.shields.io/github/license/yksanjo/cognitive-mesh-service-75)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/cognitive-mesh-service-75)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/cognitive-mesh-service-75)
+
 ## Detailed Description
 
 cognitive-mesh-service-75 is maintained as an industry-grade software project with production-ready engineering practices.  
